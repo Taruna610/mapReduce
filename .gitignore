@@ -1,0 +1,24 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.metadata
+bin/
+tmp/
+build/
+.gradle/
+.DS_Store
+*.tmp
+*.bak
+local.properties
+.settings/
+.loadpath
+
+# Eclipse Core
+.project
